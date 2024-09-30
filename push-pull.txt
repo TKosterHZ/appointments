@@ -1,1 +1,1 @@
-New text file to be pushed.
+Same text file to be pulled.
